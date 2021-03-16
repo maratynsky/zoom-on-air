@@ -16,3 +16,4 @@ Notify your family members that you are in a zoom call.
 ```
 bash -c "nohup ./zoom-call-listener.sh &"
 ```
+
